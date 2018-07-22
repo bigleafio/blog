@@ -14,6 +14,6 @@ toc: false
 
 ## Data Visualization Tips
 
-![DataViz Image](/images/dataliteracy.jpg) There's nothing worse than a bad graph.  The folks over at [TheDataLiteracyProject](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/) have provided some get tools to help you avoid many common mistakes when creating data visualizations.  
+![DataViz Image](/img/dataliteracy.jpg) There's nothing worse than a bad graph.  The folks over at [TheDataLiteracyProject](https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/) have provided some get tools to help you avoid many common mistakes when creating data visualizations.  
 If you are looking for some great tips on creating data visualizations that both make sense and help get the point across then you can grab the tools.
 
